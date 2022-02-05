@@ -1,0 +1,65 @@
+[package]
+name = "learn-rust"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.5.5"
+
+[[bin]]
+name = "main3"
+path = "src/main3.rs"
+
+[[bin]]
+name = "main4"
+path = "src/main4.rs"
+
+[[bin]]
+name = "main5"
+path = "src/main5.rs"
+
+[[bin]]
+name = "main6"
+path = "src/main6.rs"
+
+[[bin]]
+name = "main7"
+path = "src/main7.rs"
+
+[[bin]]
+name = "main8"
+path = "src/main8.rs"
+
+[[bin]]
+name = "main9"
+path = "src/main9.rs"
+
+[[bin]]
+name = "main10"
+path = "src/main10.rs"
+
+[[bin]]
+name = "main13"
+path = "src/main13.rs"
+
+[[bin]]
+name = "main15"
+path = "src/main15.rs"
+
+[[bin]]
+name = "main16"
+path = "src/main16.rs"
+
+[[bin]]
+name = "main17"
+path = "src/main17.rs"
+
+[[bin]]
+name = "main18"
+path = "src/main18.rs"
+
+[[bin]]
+name = "main19"
+path = "src/main19.rs"
